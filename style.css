@@ -1,0 +1,16 @@
+/*by harshvir*/
+body{
+    background: darkblue;
+    color: greenyellow;
+    font-family: sans-serif;
+    font-size: 2em;
+    text-align: center;
+}
+canvas{
+    border: solid 0.2em greenyellow;
+    height: 90vh;
+    border-radius: 20px;
+}
+canvas.score-board{
+    background-color: blue;
+}
